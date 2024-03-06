@@ -1,4 +1,4 @@
-# JapaneseBeetleRemoteSensing
+# Japanese Beetle Remote Sensing
 Incidence of Japanese beetles on sites across the Twin Cities, MN and the effect of remotely sensed NDVI on JB populations.
 
 There is a full write-up on this analysis on the following site: https://codyprouty.github.io/JapaneseBeetle.html
